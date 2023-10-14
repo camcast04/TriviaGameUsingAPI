@@ -1,2 +1,1 @@
-# TriviaGameUsingAPI
-Trivia game using trivia API
+# ios101-project4-trivia-starter
